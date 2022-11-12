@@ -45,6 +45,13 @@
   border-radius: 25px;
 }
 
+#check:checked ~ .search-box .icon{
+  background: #FF676D;
+  color: #FFF;
+  width: 60px;
+  border-radius: 0 25px 25px 0;
+}
+
 #check{
   display: none;
 }
