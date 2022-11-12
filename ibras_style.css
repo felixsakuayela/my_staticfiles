@@ -496,6 +496,10 @@ section{
     border:var(--border-hover);
 }
 
+.notify {
+    right: auto;
+}
+
 .arrivals .arrivals-slider .box .image img{
     height:15rem;
 }
