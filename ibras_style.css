@@ -69,9 +69,9 @@ section{
     border:var(--border);
 }
 
-.notif {
-    right: auto;
+.notif {  
     top: 2px;
+    right: auto;
 }
 
 .btn{
