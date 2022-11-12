@@ -69,6 +69,10 @@ section{
     border:var(--border);
 }
 
+.notif {
+    right: auto;
+}
+
 .btn{
     margin-top: 1rem;
     display:inline-block;
@@ -494,10 +498,6 @@ section{
 
 .arrivals .arrivals-slider .box:hover{
     border:var(--border-hover);
-}
-
-.notify {
-    right: auto;
 }
 
 .arrivals .arrivals-slider .box .image img{
